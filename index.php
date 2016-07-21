@@ -161,7 +161,10 @@
         <div class="container">
             <div class="row vertical-align-child">
                 <div class="col-sm-5 hidden-xs wow animated fadeInUp" data-wow-delay="0.3s">
-                    <img src="images/single-1.jpg" alt="" class="img-responsive">
+                    <img src="images/single-1.jpg" alt="" class="img-responsive service">
+                    <br />
+                    <br />
+                    <br />
                 </div>
                 <div class="col-sm-6 col-sm-offset-1 wow animated fadeInUp" data-wow-delay="0.6s">
                     <h1>We are <span class="color_text">PASSIONATE</span> about our work</h1>
@@ -229,7 +232,7 @@
                     <div class="item">
                         <div class="service-box">
                             <div class="service-thumb">
-                                <a href="#"><img src="images/s1.jpg" alt="" class="img-responsive"></a>
+                                <a href="#"><img src="images/s1.jpg" alt="" class="img-responsive service"></a>
                             </div>
                             <div class="service-desc">
                                 <h4 class="text-uppercase">Choose Colors</h4>
@@ -241,7 +244,7 @@
                     <div class="item">
                         <div class="service-box">
                             <div class="service-thumb">
-                                <a href="#"><img src="images/s2.jpg" alt="" class="img-responsive"></a>
+                                <a href="#"><img src="images/s2.jpg" alt="" class="img-responsive service"></a>
                             </div>
                             <div class="service-desc">
                                 <h4 class="text-uppercase">Show Me</h4>
@@ -253,7 +256,7 @@
                     <div class="item">
                         <div class="service-box">
                             <div class="service-thumb">
-                                <a href="#"><img src="images/s3.jpg" alt="" class="img-responsive"></a>
+                                <a href="#"><img src="images/s3.jpg" alt="" class="img-responsive service"></a>
                             </div>
                             <div class="service-desc">
                                 <h4 class="text-uppercase">Decorating Tips</h4>
@@ -265,7 +268,7 @@
                     <div class="item">
                         <div class="service-box">
                             <div class="service-thumb">
-                                <a href="#"><img src="images/s4.jpg" alt="" class="img-responsive"></a>
+                                <a href="#"><img src="images/s4.jpg" alt="" class="img-responsive service"></a>
                             </div>
                             <div class="service-desc">
                                 <h4 class="text-uppercase">Portfolio</h4>
@@ -295,7 +298,7 @@
         <div class="project-slider owl-carousel owl-theme">
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-6.jpg" alt="" class="img-responsive">
+                    <img src="images/work-6.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -303,7 +306,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-5.jpg" alt="" class="img-responsive">
+                    <img src="images/work-5.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -311,7 +314,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-3.jpg" alt="" class="img-responsive">
+                    <img src="images/work-3.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -319,7 +322,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-4.jpg" alt="" class="img-responsive">
+                    <img src="images/work-4.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -327,7 +330,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-9.jpg" alt="" class="img-responsive">
+                    <img src="images/work-9.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -335,7 +338,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-8.jpg" alt="" class="img-responsive">
+                    <img src="images/work-8.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -343,7 +346,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-7.jpg" alt="" class="img-responsive">
+                    <img src="images/work-7.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -409,7 +412,7 @@
                         <div class="space30"></div>
                     </div>
                     <div class="col-sm-6 wow animated fadeIn" data-wow-delay="0.4s">
-                        <img src="images/single-2.png" alt="" class="img-responsive hidden-xs">
+                        <img src="images/single-2.png" alt="" class="img-responsive service hidden-xs">
                     </div>
                 </div>
             </div>
@@ -463,7 +466,7 @@
                         <div class="col-sm-6">
                             <div class="post wow animated fadeInUp" data-wow-delay="0.2s">
                                 <a href="post.html">
-                                    <img src="images/s1.jpg" alt="" class="img-responsive"> 
+                                    <img src="images/s1.jpg" alt="" class="img-responsive service"> 
                                 </a>
                                 <div class="space20"></div>
                                 <div class="post-meta">
@@ -488,7 +491,7 @@
                         <div class="col-sm-6">
                             <div class="post wow animated fadeInUp" data-wow-delay="0.4s">
                                 <a href="post.html">
-                                    <img src="images/s2.jpg" alt="" class="img-responsive"> 
+                                    <img src="images/s2.jpg" alt="" class="img-responsive service"> 
                                 </a>
                                 <div class="space20"></div>
                                 <div class="post-meta">

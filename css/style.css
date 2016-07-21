@@ -1192,4 +1192,8 @@ Footer styles
     background-color: transparent;
     width: 100%; } }
 
+
+.service {
+  width: 100% !important;
+}
 /*# sourceMappingURL=style.css.map */
