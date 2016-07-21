@@ -78,5 +78,5 @@
         <script src="js/custom.js"></script>
         <script src="js/jquery.mixitup.js"></script>
         <!-- Google Maps -->
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-        <script src="js/jquery.gmaps.min.js"></script>
+        <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script src="js/jquery.gmaps.min.js"></script> -->
