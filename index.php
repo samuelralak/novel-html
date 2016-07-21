@@ -31,14 +31,14 @@
                         data-delay="1500"
                         data-duration="2500"
                         data-ease="easeOutExpo"
-                        data-effect="rotate3dtop(-100,0,0,40,t)">Decorate your home or office in the most exciting way</h3>
+                        data-effect="rotate3dtop(-100,0,0,40,t)">Best Construction Template</h3>
                     <h5 class="ms-layer sub-title2 text-uppercase"
                         style="left:150px; top: 330px;"
                         data-type="text"
                         data-effect="bottom(45)"
                         data-duration="3000"
                         data-delay="2000"
-                        data-ease="easeOutExpo">Let us choose to best compliment your vision and lifestyle.</h5>
+                        data-ease="easeOutExpo">Development dolor sit amet consectetur adipiscing Phasellus</h5>
                     <a class="ms-layer btn1" href="#"
                        style="left: 150px; top:380px;"
                        data-type="text"
@@ -52,7 +52,7 @@
                        data-delay="3000"
                        data-ease="easeOutExpo"
                        data-duration="2200"
-                       data-effect="scale(1.5,1.6)"> Get Started! <i class="ion-ios-arrow-right"></i></a> </div>
+                       data-effect="scale(1.5,1.6)"> Purchase Now! <i class="ion-ios-arrow-right"></i></a> </div>
                 <!-- end of slide --> 
 
                 <!-- slide 2 -->
@@ -66,21 +66,21 @@
                         data-delay="1000"
                         data-duration="2000"
                         data-ease="easeOutExpo"
-                        data-effect="rotate3dtop(-100,0,0,40,t)">Novel paints are harder wearing</h3>
+                        data-effect="rotate3dtop(-100,0,0,40,t)">We build</h3>
                     <h3 class="ms-layer title2  text-uppercase"
                         style="left:110px;top: 260px;"
                         data-type="text"
                         data-delay="1500"
                         data-duration="2500"
                         data-ease="easeOutExpo"
-                        data-effect="rotate3dtop(-100,0,0,40,t)">more durable, richer in colour, texture and lure</h3>
+                        data-effect="rotate3dtop(-100,0,0,40,t)">Awesome projects</h3>
                     <h5 class="ms-layer sub-title2 text-uppercase"
                         style="left:110px; top:330px;"
                         data-type="text"
                         data-effect="bottom(45)"
                         data-duration="3000"
                         data-delay="2000"
-                        data-ease="easeOutExpo">The palette choice is unlimited. Select the colour and we shall tint it for you.</h5>
+                        data-ease="easeOutExpo">Development dolor sit amet consectetur adipiscing Phasellus</h5>
                     <a class="ms-layer btn1" href="#"
                        style="left:110px; top:380px;"
                        data-type="text"
@@ -94,7 +94,7 @@
                             data-delay="3000"
                             data-ease="easeOutExpo"
                             data-duration="2200"
-                            data-effect="scale(1.5,1.6)"> Get Started! <i class="ion-ios-arrow-right"></i></a> </div>
+                            data-effect="scale(1.5,1.6)"> Purchase Now! <i class="ion-ios-arrow-right"></i></a> </div>
                 <!-- end of slide --> 
 
                 <!-- slide 1 -->
@@ -115,14 +115,14 @@
                         data-delay="1500"
                         data-duration="2500"
                         data-ease="easeOutExpo"
-                        data-effect="rotate3dtop(-100,0,0,40,t)">We specialize in the manufacture and distribution of various types of high quality paints</h3>
+                        data-effect="rotate3dtop(-100,0,0,40,t)">We offer Multi Services</h3>
                     <h5 class="ms-layer sub-title2 full-wid white text-uppercase text-center"
                         style="left:0px; top: 330px;"
                         data-type="text"
                         data-effect="bottom(45)"
                         data-duration="3000"
                         data-delay="2000"
-                        data-ease="easeOutExpo">We are committed to the minimizing of our carbon footprint, the adoption of best practices in environmental management and in producing paint that is low in volatile odour compound.</h5>
+                        data-ease="easeOutExpo">Development dolor sit amet consectetur adipiscing Phasellus</h5>
                     <a class="ms-layer btn1 uppercase" href="#"
                        style="left: 530px; top:380px;"
                        data-type="text"
@@ -136,7 +136,7 @@
                        data-delay="3000"
                        data-ease="easeOutExpo"
                        data-duration="2200"
-                       data-effect="scale(1.5,1.6)"> Get Started! <i class="ion-ios-arrow-right"></i></a> </div>
+                       data-effect="scale(1.5,1.6)"> Purchase Now! <i class="ion-ios-arrow-right"></i></a> </div>
                 <!-- end of slide --> 
             </div>
         </div>
