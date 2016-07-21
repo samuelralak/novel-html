@@ -27,8 +27,8 @@
         <![endif]-->
     </head>
     <body>
-<div id="preloader"></div>
 
+<div id="preloader"></div>
         <!--top bar-->
         <div class="top-bar">
             <div class="container">
@@ -51,153 +51,21 @@
         </div>
         <!--top bar end-->
 
-        <!-- navbar -->
-        <nav class="navbar navbar-default navbar-static-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""></a>
-                </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="index.html">V1 - Default Slider</a></li>
-                                <li><a href="index-static-img.html">V2 - Static Image</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="service.html">All Services</a></li>
-                                <li><a href="renovation-service.html">House renovation</a></li>
-                                <li><a href="management-service.html">Project management</a></li>
-                                <li><a href="construction-service.html">Construction</a></li>
-                                <li><a href="interior-service.html">Interior design</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Features <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="typography.html">Typography</a></li>
-                                <li><a href="tabs.html">Tabs</a></li>
-                                <li><a href="accordoins.html">Accordions</a></li>
-                                <li><a href="grid-system.html">Grid System</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown active">
-                            <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="post.html">Blog Post</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                                <li><a href="single-project.html">Single Project</a></li> 
-                                <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="error-404.html">Error-404</a></li>
-                                <li><a href="full-width.html">Page Full Width</a></li>
-                                <li><a href="page-right-sidebar.html">Page Right Sidebar</a></li>
-                                <li><a href="page-left-sidebar.html">Page Left Sidebar</a></li>
-                                
-                            </ul>
-                        </li>
-                        <li class="search-toggle"><a href="javascript:void(0)"><i class="ion-search"></i></a>
-                            <form class="search-form">
-                                <input type="text" class="form-control" placeholder="Search here...">
-                                <button type="submit" style="display: none">Search</button>
-                            </form>
-                        </li>
-                    </ul>
-                </div><!--/.nav-collapse -->
-            </div><!--/.container -->
-        </nav><!--/nav -->
+        <?php include 'shared/header.php';?>
 
 
         <div class="page-title pattern">
             <div class="container text-center">
-                <h1>Gallery</h1>
+                <h1>Page not found</h1>
             </div>
         </div><!--page title end-->
         <div class="space80"></div>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-1.jpg" data-lightbox="gallery">
-                        <img src="images/work-1.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-2.jpg" data-lightbox="gallery">
-                        <img src="images/work-2.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-3.jpg" data-lightbox="gallery">
-                        <img src="images/work-3.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
+        <div class="container text-center">
+            <div class="error-digit">
+                <i class="ion-bug"></i>
+                <h3>The page you are looking is not found!</h3>
             </div>
-                <div class="row">
-                <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-4.jpg" data-lightbox="gallery">
-                        <img src="images/work-4.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-5.jpg" data-lightbox="gallery">
-                        <img src="images/work-5.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-6.jpg" data-lightbox="gallery">
-                        <img src="images/work-6.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-            </div>
-                <div class="row">
-                <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-7.jpg" data-lightbox="gallery">
-                        <img src="images/work-7.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-8.jpg" data-lightbox="gallery">
-                        <img src="images/work-8.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-                  <div class="col-sm-4 margin-btm-30">
-                    <a href="images/work-9.jpg" data-lightbox="gallery">
-                        <img src="images/work-9.jpg" alt="" class="img-responsive">
-                    </a>
-                </div>
-            </div>
-            <div class="text-right">
-                        <nav>
-  <ul class="pagination">
-    <li>
-      <a href="#" aria-label="Previous">
-        <span aria-hidden="true">«</span>
-      </a>
-    </li>
-    <li class="active"><a href="#">1</a></li>
-    <li><a href="#">2</a></li>
-    <li><a href="#">3</a></li>
-    <li>
-      <a href="#" aria-label="Next">
-        <span aria-hidden="true">»</span>
-      </a>
-    </li>
-  </ul>
-</nav>
-                    </div>
         </div>
 
         <div class="space80"></div>
