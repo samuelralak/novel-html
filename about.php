@@ -39,9 +39,6 @@
                         <div class="person-desc">
                             <h4 class="text-uppercase">Khalif Maalim</h4>
                             <span><em>Managing Director</em></span>
-                            <p>
-                                 Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-                            </p>
                         </div>
                     </div>
                 </div><!--col-->
@@ -53,9 +50,6 @@
                         <div class="person-desc">
                             <h4 class="text-uppercase">Ahmed Khalif</h4>
                             <span><em>Director</em></span>
-                            <p>
-                                 Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-                            </p>
                         </div>
                     </div>
                 </div><!--col-->
@@ -67,9 +61,6 @@
                         <div class="person-desc">
                             <h4 class="text-uppercase">Masud Khalif</h4>
                             <span><em>Director</em></span>
-                            <p>
-                                 Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-                            </p>
                         </div>
                     </div>
                 </div><!--col-->
