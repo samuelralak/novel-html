@@ -232,14 +232,9 @@
                                 <a href="#"><img src="images/s1.jpg" alt="" class="img-responsive"></a>
                             </div>
                             <div class="service-desc">
-                                <h4 class="text-uppercase">Interior Design</h4>
+                                <h4 class="text-uppercase">Choose Colors</h4>
                                 <div class="border-width"></div>
-                                <p>
-                                    Sed ut perspiciatis unde omnis doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                                </p>
-                                <div class="text-right">
-                                    <a href="#" class="btn btn-link">View Details</a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div><!--services col end-->
@@ -249,14 +244,9 @@
                                 <a href="#"><img src="images/s2.jpg" alt="" class="img-responsive"></a>
                             </div>
                             <div class="service-desc">
-                                <h4 class="text-uppercase">Decorating Tips</h4>
+                                <h4 class="text-uppercase">Show Me</h4>
                                 <div class="border-width"></div>
-                                <p>
-                                    Sed ut perspiciatis unde omnis doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                                </p>
-                                <div class="text-right">
-                                    <a href="#" class="btn btn-link">View Details</a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div><!--services col end-->
@@ -266,14 +256,9 @@
                                 <a href="#"><img src="images/s3.jpg" alt="" class="img-responsive"></a>
                             </div>
                             <div class="service-desc">
-                                <h4 class="text-uppercase">House Renovation</h4>
+                                <h4 class="text-uppercase">Decorating Tips</h4>
                                 <div class="border-width"></div>
-                                <p>
-                                    Sed ut perspiciatis unde omnis doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                                </p>
-                                <div class="text-right">
-                                    <a href="#" class="btn btn-link">View Details</a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div><!--services col end-->
@@ -283,14 +268,9 @@
                                 <a href="#"><img src="images/s4.jpg" alt="" class="img-responsive"></a>
                             </div>
                             <div class="service-desc">
-                                <h4 class="text-uppercase">Constructions</h4>
+                                <h4 class="text-uppercase">Portfolio</h4>
                                 <div class="border-width"></div>
-                                <p>
-                                    Sed ut perspiciatis unde omnis doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                                </p>
-                                <div class="text-right">
-                                    <a href="#" class="btn btn-link">View Details</a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div><!--services col end-->
@@ -298,7 +278,7 @@
             </div>
             <div class="space50"></div>
             <div class="text-center">
-                <a href="#" class="btn btn-xl btn-skin">View All Services <i class="ion-android-arrow-forward"></i></a>
+                <a href="service.php" class="btn btn-xl btn-skin">View All Services <i class="ion-android-arrow-forward"></i></a>
             </div>
             <div class="space80"></div>
         </div>
