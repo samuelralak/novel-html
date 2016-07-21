@@ -161,7 +161,7 @@
         <div class="container">
             <div class="row vertical-align-child">
                 <div class="col-sm-5 hidden-xs wow animated fadeInUp" data-wow-delay="0.3s">
-                    <img src="images/single-1.png" alt="" class="img-responsive">
+                    <img src="images/single-1.jpg" alt="" class="img-responsive">
                 </div>
                 <div class="col-sm-6 col-sm-offset-1 wow animated fadeInUp" data-wow-delay="0.6s">
                     <h1>We are <span class="color_text">PASSIONATE</span> about our work</h1>
