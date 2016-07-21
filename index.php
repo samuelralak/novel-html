@@ -167,7 +167,7 @@
                     <h1>We are <span class="color_text">PASSIONATE</span> about our work</h1>
                     <div class="border-width"></div>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        Novel paints will help you decorate your home or office in the most exciting way. Let us choose to best compliment your vision and lifestyle. Novel paints are harder wearing, more durable, richer in colour, texture and lure. The palette choice is unlimited. Select the colour and we shall tint it for you.
                     </p>
                     <hr>
                     <div class="buttons">
@@ -182,10 +182,10 @@
                     <div class="icon-box clearfix wow animated fadeIn" data-wow-delay="0.3s">
                         <i class="flaticon-excavator-machine-arm"></i>
                         <div class="content">
-                            <h4 class="text-uppercase">15 Years of experience</h4>
+                            <h4 class="text-uppercase">12 Years of experience</h4>
                             <div class="border-width"></div>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                For over 12 years now, our customers have shared their passion with us and relied on our products and colours to bring their dreams and ideas into life.
                             </p>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                             <h4 class="text-uppercase">Professionals</h4>
                             <div class="border-width"></div>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                We specialize in the manufacture and distribution of various types of high quality paints (i.e. emulsions, glosses and varnishes).
                             </p>
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                             <h4 class="text-uppercase">Modern Technologies</h4>
                             <div class="border-width"></div>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                We are committed to the minimizing of our carbon footprint, the adoption of best practices in environmental management and in producing paint that is low in volatile odour compound.
                             </p>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
                                 <a href="#"><img src="images/s2.jpg" alt="" class="img-responsive"></a>
                             </div>
                             <div class="service-desc">
-                                <h4 class="text-uppercase">Project Management</h4>
+                                <h4 class="text-uppercase">Decorating Tips</h4>
                                 <div class="border-width"></div>
                                 <p>
                                     Sed ut perspiciatis unde omnis doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
