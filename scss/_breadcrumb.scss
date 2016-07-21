@@ -1,0 +1,20 @@
+/*
+Breadcrumb style
+*/
+.page-title{
+    padding: 60px 0;
+    h1{
+        margin: 0px;
+        text-transform: uppercase;
+        font-size: 25px;
+    }
+    &.pattern{
+    background-image: url(../images/pattern.png);
+    background-repeat: repeat;
+    background-color: $skincolor;
+    h1{
+        color: #fff;
+    }
+}
+}
+
