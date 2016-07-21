@@ -573,5 +573,8 @@
             </div>
         </div>
         <?php include 'shared/footer.php';?>
+        <!--page template scripts-->
+        <script src="masterslider/masterslider.min.js"></script> 
+        <script src="js/master-custom.js"></script>
     </body>
 </html>
