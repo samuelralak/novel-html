@@ -12,16 +12,13 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="index.php">V1 - Default Slider</a></li>
-                                <li><a href="index-static-img.php">V2 - Static Image</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
-                        <li><a href="projects.php">Projects</a></li>
-                        <li class="dropdown">
+                        <li><a href="service.php">Services</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                        <!-- <li><a href="projects.php">Projects</a></li> -->
+                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="service.php">All Services</a></li>
@@ -30,8 +27,8 @@
                                 <li><a href="construction-service.php">Construction</a></li>
                                 <li><a href="interior-service.php">Interior design</a></li>
                             </ul>
-                        </li>
-                        <li class="dropdown">
+                        </li> -->
+                        <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Features <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="typography.php">Typography</a></li>
@@ -54,7 +51,7 @@
                                 <li><a href="page-left-sidebar.php">Page Left Sidebar</a></li>
                                 
                             </ul>
-                        </li>
+                        </li> -->
                         <li class="search-toggle"><a href="javascript:void(0)"><i class="ion-search"></i></a>
                             <form class="search-form">
                                 <input type="text" class="form-control" placeholder="Search here...">

@@ -20,11 +20,11 @@
                 <div class="col-md-3">
                     <div class="sidebar-widget">
                     <ul class="list-unstyled side-nav">
-                        <li class="active"><a href="service.html">All Services</a></li>
-                        <li><a href="renovation-service.html">House renovation</a></li>
-                        <li><a href="management-service.html">Project management</a></li>
-                        <li><a href="construction-service.html">Construction</a></li>
-                        <li><a href="interior-service.html">Interior design</a></li>
+                        <li class="active"><a href="service.php">All Services</a></li>
+                        <li><a href="renovation-service.php">House renovation</a></li>
+                        <li><a href="management-service.php">Project management</a></li>
+                        <li><a href="construction-service.php">Construction</a></li>
+                        <li><a href="interior-service.php">Interior design</a></li>
                     </ul>
                 </div>
                     <div class="sidebar-widget">
