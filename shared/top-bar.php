@@ -3,8 +3,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <span><i class="ion-android-call"></i> +01 555-555-555</span>
-                        <span><i class="ion-ios-email"></i> info@bpress.com</span>
+                        <span><i class="ion-android-call"></i> +254 20 550760 | +254 708 114 276</span>
+                        <span><i class="ion-ios-email"></i> customerservice@novelpaints.com</span>
                     </div>
                     <div class="col-sm-6">
                         <ul class="list-inline text-right">
