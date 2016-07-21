@@ -24,7 +24,7 @@
                         data-delay="1000"
                         data-duration="2000"
                         data-ease="easeOutExpo"
-                        data-effect="rotate3dtop(-100,0,0,40,t)">Bpress</h3>
+                        data-effect="rotate3dtop(-100,0,0,40,t)">Novel Paints</h3>
                     <h3 class="ms-layer title2 text-uppercase text-center"
                         style="left:150px;top: 260px;"
                         data-type="text"
@@ -447,21 +447,21 @@
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>

@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-sm-6 margin-btm-30">
                     <p>
-                        Bpress is a construction based company in <span class="text_color">Columbia</span>. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                        Novel Paints is a construction based company in <span class="text_color">Columbia</span>. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
                     </p>
                     <blockquote>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
@@ -37,8 +37,8 @@
                             <img src="images/team1.jpg" alt="" class="img-responsive">
                         </a>
                         <div class="person-desc">
-                            <h4 class="text-uppercase">John Doe</h4>
-                            <span><em>Project Manager</em></span>
+                            <h4 class="text-uppercase">Khalif Maalim</h4>
+                            <span><em>Managing Director</em></span>
                             <p>
                                  Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
                             </p>
@@ -51,8 +51,8 @@
                             <img src="images/team2.jpg" alt="" class="img-responsive">
                         </a>
                         <div class="person-desc">
-                            <h4 class="text-uppercase">John Doe</h4>
-                            <span><em>Project Manager</em></span>
+                            <h4 class="text-uppercase">Ahmed Khalif</h4>
+                            <span><em>Director</em></span>
                             <p>
                                  Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
                             </p>
@@ -65,8 +65,8 @@
                             <img src="images/team3.jpg" alt="" class="img-responsive">
                         </a>
                         <div class="person-desc">
-                            <h4 class="text-uppercase">John Doe</h4>
-                            <span><em>Project Manager</em></span>
+                            <h4 class="text-uppercase">Masud Khalif</h4>
+                            <span><em>Director</em></span>
                             <p>
                                  Donec a felis sed ligula aliquet sollicitudin a in elit. Nunc at commodo erat, fringilla egestas tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
                             </p>
@@ -77,13 +77,13 @@
             <div class="space80"></div>
             <div class="row support-info">
                 <div class="col-sm-4">
-                    <h4> <i class="ion-ios-telephone"></i> +01 555-555-555</h4>
+                    <h4> <i class="ion-ios-telephone"></i> +254 708 114 276</h4>
                 </div>
                 <div class="col-sm-4">
-                    <h4> <i class="ion-email"></i> support@bpress.com</h4>
+                    <h4> <i class="ion-email"></i> customerservice@novelpaints.com</h4>
                 </div>
                 <div class="col-sm-4">
-                    <h4> <i class="ion-map"></i> 123 Lorem Street, 302012 Columbia</h4>
+                    <h4> <i class="ion-map"></i> P.O.Box 3625-00506</h4>
                 </div>
             </div>
         </div>

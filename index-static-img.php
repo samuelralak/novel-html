@@ -335,21 +335,21 @@
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>
                             <div class="item">
                                 <i class="ion-quote"></i>
                                 <p>
-                                    " We are so happy working with Bpress, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
+                                    " We are so happy working with Novel Paints, the guys are very familiar and work with passionate, services are absolutely awesome, highly recommended. "
                                 </p>
                                 <h5>John Doe</h5>
                             </div>

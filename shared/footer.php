@@ -50,12 +50,12 @@
                             <li><a href="#">Home</a></li>
                             <li><a href="#">About</a></li>
                             <li><a href="#">Services</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Gallery</a></li>
                             <li><a href="#">Terms & Conditions</a></li>
                         </ul>   
                     </div>
                     <div class="col-sm-5 text-right">
-                        <span>&copy; 2016. All Right Reserved. Bpress</span> 
+                        <span>&copy; 2016. All Right Reserved. Novel</span> 
                     </div>
                 </div>
             </div>
