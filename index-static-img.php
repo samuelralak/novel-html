@@ -1,53 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Bpress</title>
-        <!-- Bootstrap -->
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/animate.css" rel="stylesheet">
-        <link href="ion-icons/css/ionicons.min.css" rel="stylesheet">
-        <link href="construction-fonts/flaticon.css" rel="stylesheet">
-        <link href="owl-carousel/owl.carousel.css" rel="stylesheet">
-        <link href="owl-carousel/owl.theme.css" rel="stylesheet">
-        <link href="owl-carousel/owl.transitions.css" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet">
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    </head>
+    <?php include 'shared/head-shim.php';?>
     <body>
 
 <div id="preloader"></div>
-        <!--top bar-->
-        <div class="top-bar">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <span><i class="ion-android-call"></i> +01 555-555-555</span>
-                        <span><i class="ion-ios-email"></i> info@bpress.com</span>
-                    </div>
-                    <div class="col-sm-6">
-                        <ul class="list-inline text-right">
-                            <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-                            <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
-                            <li><a href="#"><i class="ion-social-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--top bar end-->
-
-        <?php include 'shared/header.php';?>
+    <?php include 'shared/top-bar.php';?>
+    <?php include 'shared/header.php';?>
 
         <!--start static hero slider-->
         <div class="hero-banner">
