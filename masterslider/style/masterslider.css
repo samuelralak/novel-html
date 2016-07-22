@@ -593,3 +593,11 @@
 	-webkit-animation:none;
 	-o-animation:none;
 }
+
+.ms-slide-bgcont {
+	background: -moz-linear-gradient(left,  rgba(0,0,0,0.65) 50%, rgba(0,0,0,0.65) 43%, rgba(0,0,0,0.65) 50%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  rgba(0,0,0,0.65) 50%,rgba(0,0,0,0.65) 43%,rgba(0,0,0,0.65) 50%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  rgba(0,0,0,0.65) 50%,rgba(0,0,0,0.65) 43%,rgba(0,0,0,0.65) 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background-size: cover !important;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
