@@ -341,7 +341,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-8.jpg" alt="" class="img-responsive service">
+                    <img src="images/work-8.jpg" alt="" class="img-responsive service" style="height: 100% !important;">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
@@ -349,7 +349,7 @@
             </div><!--end item-->
             <div class="item">
                 <a class="prject-box" href="#">
-                    <img src="images/work-7.jpg" alt="" class="img-responsive service">
+                    <img src="images/work-7.jpg" alt="" class="img-responsive service" style="height: 100% !important;">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>

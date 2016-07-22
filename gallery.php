@@ -52,17 +52,87 @@
                 <div class="row">
                 <div class="col-sm-4 margin-btm-30">
                     <a href="images/work-7.jpg" data-lightbox="gallery">
-                        <img src="images/work-7.jpg" alt="" class="img-responsive">
+                        <img src="images/work-7.jpg" alt="" class="img-responsive" style="height: 100% !important;">
                     </a>
                 </div>
                   <div class="col-sm-4 margin-btm-30">
                     <a href="images/work-8.jpg" data-lightbox="gallery">
-                        <img src="images/work-8.jpg" alt="" class="img-responsive">
+                        <img src="images/work-8.jpg" alt="" class="img-responsive" style="height: 100% !important;">
                     </a>
                 </div>
                   <div class="col-sm-4 margin-btm-30">
                     <a href="images/work-9.jpg" data-lightbox="gallery">
                         <img src="images/work-9.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-10.jpg" data-lightbox="gallery">
+                        <img src="images/work-10.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-11.jpg" data-lightbox="gallery">
+                        <img src="images/work-11.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-12.jpg" data-lightbox="gallery">
+                        <img src="images/work-12.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-13.jpg" data-lightbox="gallery">
+                        <img src="images/work-13.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-14.jpg" data-lightbox="gallery">
+                        <img src="images/work-14.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-15.jpg" data-lightbox="gallery">
+                        <img src="images/work-15.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-16.jpg" data-lightbox="gallery">
+                        <img src="images/work-16.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-17.jpg" data-lightbox="gallery">
+                        <img src="images/work-17.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-18.jpg" data-lightbox="gallery">
+                        <img src="images/work-18.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-19.jpg" data-lightbox="gallery">
+                        <img src="images/work-19.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-20.jpg" data-lightbox="gallery">
+                        <img src="images/work-20.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-21.jpg" data-lightbox="gallery">
+                        <img src="images/work-21.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-22.jpg" data-lightbox="gallery">
+                        <img src="images/work-22.jpg" alt="" class="img-responsive">
+                    </a>
+                </div>
+                <div class="col-sm-4 margin-btm-30">
+                    <a href="images/work-23.jpg" data-lightbox="gallery">
+                        <img src="images/work-23.jpg" alt="" class="img-responsive">
                     </a>
                 </div>
             </div>
