@@ -340,16 +340,16 @@
                 </a>
             </div><!--end item-->
             <div class="item">
-                <a class="prject-box" href="#">
-                    <img src="images/work-8.jpg" alt="" class="img-responsive service" style="height: 100% !important;">
+                <a class="prject-box" href="#" style="height: 254px !important;">
+                    <img src="images/work-8.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>
                 </a>
             </div><!--end item-->
             <div class="item">
-                <a class="prject-box" href="#">
-                    <img src="images/work-7.jpg" alt="" class="img-responsive service" style="height: 100% !important;">
+                <a class="prject-box" href="#" style="height: 254px !important;">
+                    <img src="images/work-7.jpg" alt="" class="img-responsive service">
                     <div class="project-overlay">
                         <h4 class="text-capitalize">Project title <i class="ion-android-arrow-forward"></i></h4>
                     </div>

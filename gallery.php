@@ -52,12 +52,12 @@
                 <div class="row">
                 <div class="col-sm-4 margin-btm-30">
                     <a href="images/work-7.jpg" data-lightbox="gallery">
-                        <img src="images/work-7.jpg" alt="" class="img-responsive" style="height: 100% !important;">
+                        <img src="images/work-7.jpg" alt="" class="img-responsive" style="width: 100% !important; height: 202px !important">
                     </a>
                 </div>
                   <div class="col-sm-4 margin-btm-30">
                     <a href="images/work-8.jpg" data-lightbox="gallery">
-                        <img src="images/work-8.jpg" alt="" class="img-responsive" style="height: 100% !important;">
+                        <img src="images/work-8.jpg" alt="" class="img-responsive" style="width: 100% !important; height: 202px !important">
                     </a>
                 </div>
                   <div class="col-sm-4 margin-btm-30">
